@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
 <title>test1323 Shunsuke Nakamura</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="IT企業, 島根県, ミジンコ">
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
 <!--[if lt IE 9]>
 <script src="js/html5.js"></script>
