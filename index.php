@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<title>ホームページサンプル株式会社のサイトです</title>
+<title>test1323 Shunsuke Nakamura</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
