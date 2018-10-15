@@ -27,7 +27,7 @@
 	
   <div class="info">
 		<p class="tel"><span>電話:</span> 012-3456-7890</p>
-		<p class="open">受付時間: 平日 AM 10:00 〜 PM 5:00</p>
+		<p class="open">受付時間: 平日 AM 10:00 ? PM 5:00</p>
 	</div>
 	<!-- / 電話番号+受付時間 -->
 </header>
@@ -106,7 +106,7 @@
 			<!-- 電話番号+受付時間 -->
 			<div class="info">
 				<p class="tel"><span>電話:</span> 012-3456-7890</p>
-				<p class="open">受付時間: 平日 AM 10:00 〜 PM 5:00</p>
+				<p class="open">受付時間: 平日 AM 10:00 ? PM 5:00</p>
 			</div>
 			<!-- / 電話番号+受付時間 -->
 		</div>  
