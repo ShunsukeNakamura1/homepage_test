@@ -6,6 +6,7 @@
 <title>test1323 Shunsuke Nakamura</title>
 <meta name="keywords" content="IT企業, 島根県, ミジンコ">
 <meta name="description" content="test homepage">
+<meta name="google-site-verification" content="DBobPPmCnPUFPRxj2i-JTcVZ8GXtvsHBEMBx5PPPi-A" />
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
 <!--[if lt IE 9]>
 <script src="js/html5.js"></script>
