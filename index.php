@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<title>IT企業 島根県 ミジンコ</title>
+<title>ミジンコ株式会社</title>
 <meta name="keywords" content="IT企業 島根県 ミジンコ">
-<meta name="description" content="IT企業 島根県 ミジンコ">
+<meta name="description" content="島根県のIT企業 ミジンコ株志会社のホームページです。ミジンコを育てています。">
 <meta name="google-site-verification" content="DBobPPmCnPUFPRxj2i-JTcVZ8GXtvsHBEMBx5PPPi-A" />
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
 <!--[if lt IE 9]>
@@ -21,7 +21,7 @@
 	<h1>IT企業</h1>
   <!-- ロゴ -->
 	<div class="logo">
-		<a href="index.html">株式会社ミジンコ<br /><span>ミジンコ一番</span></a>
+		<a href="index.html">ミジンコ株式会社<br /><span>ミジンがコ一番</span></a>
 	</div>
 	<!-- / ロゴ -->
 	<!-- 電話番号+受付時間 -->
@@ -58,7 +58,7 @@
 		<img src="images/mainImg.jpg" alt="" width="960">
     <div class="slogan">
 			<h2>自然との調和を目指す企業です</h2>
-			<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。<br>革新的な技術で世の中を動かす企業を目指します。</p>
+			<p>ミジンコ株式会社は、ミジンコを使った新しい技術で世の中を変えていきます。<br>革新的なミジンコで島根県を豊かにする企業を目指します。</p>
 		</div>
 	</div>
 	<!-- / メイン画像 -->
@@ -69,7 +69,7 @@
       <div class="box">
 				<img src="images/top_m1.png" width="75" height="75" alt="" class="alignleft">
 				<h3>自然との調和を目指す企業です</h3>
-				<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
+				<p><h5>ミジンコ最高！</h5></p>
 				<p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
       </div>
 		</article>
