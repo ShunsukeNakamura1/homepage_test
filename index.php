@@ -21,7 +21,7 @@
 	<h1>IT企業</h1>
   <!-- ロゴ -->
 	<div class="logo">
-		<a href="index.html">ミジンコ株式会社<br /><span>ミジンがコ一番</span></a>
+		<a href="index.php">ミジンコ株式会社<br /><span>ミジンがコ一番</span></a>
 	</div>
 	<!-- / ロゴ -->
 	<!-- 電話番号+受付時間 -->
@@ -39,7 +39,7 @@
   	<a class="menu" id="menu"><span>MENU</span></a>
 		<div class="panel">   
     	<ul>
-    		<li class="active"><a href="index.html"><strong>トップページ</strong><span>Top</span></a></li>
+    		<li class="active"><a href="index.php"><strong>トップページ</strong><span>Top</span></a></li>
 				<li><a href="subpage.html"><strong>ごあいさつ</strong><span>Greeting</span></a></li>
 				<li><a href="subpage.html"><strong>サービス概要</strong><span>Service</span></a></li>
 				<li><a href="subpage.html"><strong>弊社の取り組み</strong><span>Approach</span></a></li>
@@ -101,7 +101,7 @@
 		<div id="info" class="grid">
 			<!-- ロゴ -->
 			<div class="logo">
-				<a href="index.html">Company Name<br /><span>Your Company Slogan</span></a>
+				<a href="index.php">ミジンコ株式会社<br /><span>ミジンコで島根を変える</span></a>
 			</div>
 			<!-- / ロゴ -->
 			<!-- 電話番号+受付時間 -->
