@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<IT企業, 島根県, ミジンコ\title>IT企業 島根県 ミジンコ</title>
+<title>IT企業 島根県 ミジンコ</title>
 <meta name="keywords" content="IT企業 島根県 ミジンコ">
 <meta name="description" content="IT企業 島根県 ミジンコ">
 <meta name="google-site-verification" content="DBobPPmCnPUFPRxj2i-JTcVZ8GXtvsHBEMBx5PPPi-A" />
