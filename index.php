@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-<title>test1323 Shunsuke Nakamura</title>
-<meta name="keywords" content="IT企業, 島根県, ミジンコ">
-<meta name="description" content="test homepage">
+<IT企業, 島根県, ミジンコ\title>IT企業 島根県 ミジンコ</title>
+<meta name="keywords" content="IT企業 島根県 ミジンコ">
+<meta name="description" content="IT企業 島根県 ミジンコ">
 <meta name="google-site-verification" content="DBobPPmCnPUFPRxj2i-JTcVZ8GXtvsHBEMBx5PPPi-A" />
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
 <!--[if lt IE 9]>
@@ -18,10 +18,10 @@
 
 <body>
 <header id="header">
-	<h1>ホームページサンプル株式会社のサイトです</h1>
+	<h1>IT企業</h1>
   <!-- ロゴ -->
 	<div class="logo">
-		<a href="index.html">Company Name<br /><span>Your Company Slogan</span></a>
+		<a href="index.html">株式会社ミジンコ<br /><span>ミジンコ一番</span></a>
 	</div>
 	<!-- / ロゴ -->
 	<!-- 電話番号+受付時間 -->
